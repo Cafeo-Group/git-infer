@@ -163,3 +163,5 @@ cython_debug/
 
 # Scitools Understand project settings
 scitools/
+databases/
+repositories/
