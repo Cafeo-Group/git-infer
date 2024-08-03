@@ -1,35 +1,9 @@
 Language,Usage Percentage,Lines
-Java,34.27%,6135907
-C#,18.11%,3242684
-C++,17.23%,3084393
-Kotlin,6.05%,1083540
-Objective-C,5.32%,951629
-JavaScript,4.27%,764900
-Python,3.10%,555793
-C,2.90%,518418
-HTML,2.86%,512118
-Swift,2.18%,390122
-Go,0.76%,135940
-ShaderLab,0.61%,109743
-CMake,0.42%,74679
-CSS,0.29%,52331
-GLSL,0.23%,41340
-Perl,0.20%,35568
-Objective-C++,0.18%,32977
-Jupyter Notebook,0.18%,31629
-Shell,0.13%,23730
-EJS,0.13%,23895
-TypeScript,0.12%,21158
-Dart,0.10%,17779
-Ruby,0.09%,15599
-Starlark,0.07%,12568
-Groovy,0.06%,11111
-Makefile,0.05%,8174
-HLSL,0.04%,7788
-Protocol Buffer,0.01%,2258
-Batchfile,0.01%,2013
-PHP,0.00%,831
-Prolog,0.00%,594
-AIDL,0.00%,558
-Arduino,0.00%,718
-Dockerfile,0.00%,863
+Java,50.78%,625926
+HTML,31.60%,389479
+JavaScript,8.00%,98557
+Go,3.33%,40999
+CSS,2.68%,33023
+Dart,1.44%,17779
+Python,1.27%,15646
+Groovy,0.90%,11111
