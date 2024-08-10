@@ -1,150 +1,151 @@
 Language,Usage Percentage,Lines
-Jupyter Notebook,32.59%,975652920
-Python,23.91%,715823604
+Jupyter Notebook,32.84%,983427892
+Python,23.63%,707549714
 C,12.38%,370639616
-JavaScript,7.01%,209812092
-HTML,5.31%,158879511
-Java,3.82%,114271418
-C#,3.55%,106365555
-TypeScript,2.49%,74674667
-CSS,1.30%,38956202
-Roff,1.09%,32773379
+JavaScript,7.01%,209993645
+HTML,5.33%,159550914
+Java,3.82%,114294989
+C#,3.55%,106373710
+TypeScript,2.50%,74880496
+CSS,1.30%,39031302
+Roff,1.09%,32773538
 C++,0.91%,27211559
-Shell,0.88%,26429482
-Bicep,0.61%,18253402
-PowerShell,0.56%,16664165
-HCL,0.55%,16606009
+Shell,0.88%,26479738
+Bicep,0.61%,18269131
+PowerShell,0.56%,16667422
+HCL,0.56%,16635572
 Objective-C,0.28%,8392249
-Kotlin,0.25%,7455746
+Kotlin,0.25%,7455774
 PHP,0.23%,6932497
-Go,0.19%,5720594
+Go,0.19%,5719872
 Assembly,0.19%,5668511
 Cython,0.19%,5629061
-TSQL,0.15%,4566851
+TSQL,0.15%,4566626
+SCSS,0.14%,4283018
 CMake,0.14%,4304465
-SCSS,0.14%,4283029
 Scala,0.12%,3610430
-Vue,0.11%,3305982
-Swift,0.10%,3019848
-Dockerfile,0.09%,2608052
-Makefile,0.08%,2342615
+Vue,0.11%,3305998
+Swift,0.10%,3019846
+Dockerfile,0.09%,2610022
+Makefile,0.08%,2343621
 Jsonnet,0.08%,2433394
-Batchfile,0.06%,1730216
+Batchfile,0.06%,1729318
+Rust,0.06%,1924820
 Handlebars,0.06%,1833534
-Rust,0.06%,1922430
 Lasso,0.06%,1788255
-COBOL,0.05%,1530946
-Less,0.04%,1066022
-Ruby,0.03%,1005970
-PLpgSQL,0.03%,906490
+COBOL,0.05%,1530947
+Less,0.04%,1066042
+Ruby,0.03%,1005909
+PLpgSQL,0.03%,906466
 Nextflow,0.03%,892654
 Svelte,0.03%,770419
 Groovy,0.02%,536845
 ShaderLab,0.02%,521798
-Dart,0.01%,243323
-GLSL,0.01%,231526
-EJS,0.01%,157524
-Smarty,0.01%,411506
-XSLT,0.01%,326376
-R,0.01%,413091
-PostScript,0.01%,191746
-Jinja,0.01%,203569
 Gherkin,0.01%,188148
-WDL,0.01%,159477
+EJS,0.01%,157524
+R,0.01%,413091
+Jinja,0.01%,203576
+Smarty,0.01%,410572
+GLSL,0.01%,231526
+XSLT,0.01%,326376
 Open Policy Agent,0.01%,248610
+PostScript,0.01%,191746
 Coq,0.01%,372588
+Dart,0.01%,243323
+WDL,0.01%,159477
 OpenEdge ABL,0.01%,390474
-Lua,0.00%,61046
-Starlark,0.00%,22227
-AIDL,0.00%,558
-Protocol Buffer,0.00%,2258
-Prolog,0.00%,4762
-Objective-C++,0.00%,118879
-Perl,0.00%,117845
-Arduino,0.00%,27054
-HLSL,0.00%,78686
-FreeMarker,0.00%,15796
-Mustache,0.00%,73194
-Visual Basic,0.00%,29197
-ASP,0.00%,62010
-Mask,0.00%,605
-Groff,0.00%,1910
-RenderScript,0.00%,5443
-ApacheConf,0.00%,398
-IDL,0.00%,191
-ASP.NET,0.00%,118490
-Mako,0.00%,5401
-Solidity,0.00%,121824
-CoffeeScript,0.00%,315
-Pug,0.00%,33429
-F#,0.00%,23019
-HiveQL,0.00%,82544
-M4,0.00%,9901
-Pascal,0.00%,418
-Puppet,0.00%,6718
-PLSQL,0.00%,76440
-Smalltalk,0.00%,13100
-VBA,0.00%,19976
-AutoHotkey,0.00%,591
-Stylus,0.00%,2333
-PureBasic,0.00%,11966
-Rebol,0.00%,1675
-Blade,0.00%,62523
-Visual Basic .NET,0.00%,8135
-Procfile,0.00%,316
-Hack,0.00%,4120
-ANTLR,0.00%,10896
-Clojure,0.00%,15305
-Elixir,0.00%,148094
-SourcePawn,0.00%,8305
-CAP CDS,0.00%,41018
-TeX,0.00%,86822
-Fortran,0.00%,100379
-Meson,0.00%,0
-Forth,0.00%,9224
-Julia,0.00%,1374
-Velocity Template Language,0.00%,141999
-Twig,0.00%,2824
-SaltStack,0.00%,61
-Cuda,0.00%,142283
-Tcl,0.00%,73986
-Haml,0.00%,4607
-JCL,0.00%,24599
-Clean,0.00%,3891
-AppleScript,0.00%,65358
-Apex,0.00%,21358
-Polar,0.00%,1391
-Liquid,0.00%,109578
-MDX,0.00%,34100
-nesC,0.00%,258
-Csound Document,0.00%,29943
-Visual Basic 6.0,0.00%,992
 SQLPL,0.00%,69138
+PLSQL,0.00%,76440
+POV-Ray SDL,0.00%,4758
+Objective-C++,0.00%,118879
+Twig,0.00%,2824
+Hack,0.00%,4120
+Perl,0.00%,117845
+Velocity Template Language,0.00%,142021
+Puppet,0.00%,6718
+SaltStack,0.00%,61
+ASP.NET,0.00%,118494
 WebAssembly,0.00%,92368
+HiveQL,0.00%,82544
+Pug,0.00%,33429
 Awk,0.00%,73
 Mermaid,0.00%,3184
-Dafny,0.00%,11466
-SMT,0.00%,198
-JetBrains MPS,0.00%,1512
-Raku,0.00%,4599
-Thrift,0.00%,1340
-Smithy,0.00%,50715
-Vim Script,0.00%,4912
-ASL,0.00%,42541
+Procfile,0.00%,316
+ASP,0.00%,62010
 OpenSCAD,0.00%,1212
-Crystal,0.00%,1358
-VBScript,0.00%,6919
-MATLAB,0.00%,5801
-REXX,0.00%,4350
+Mustache,0.00%,73130
+Elixir,0.00%,148094
+ANTLR,0.00%,10896
 M,0.00%,18595
-POV-Ray SDL,0.00%,4758
+F#,0.00%,23019
+Haml,0.00%,4607
+Tcl,0.00%,73986
+TeX,0.00%,86822
+SMT,0.00%,198
+FreeMarker,0.00%,15796
+Fortran,0.00%,100379
+MATLAB,0.00%,5801
+VBScript,0.00%,6919
+Starlark,0.00%,22227
+Julia,0.00%,1374
+Liquid,0.00%,109578
+Vim Script,0.00%,4912
+JCL,0.00%,24599
+Clean,0.00%,3891
+JetBrains MPS,0.00%,1512
+Lua,0.00%,61046
+AppleScript,0.00%,65358
+Cuda,0.00%,142283
+Solidity,0.00%,121819
+Raku,0.00%,4599
+Smithy,0.00%,50715
+REXX,0.00%,4350
+Crystal,0.00%,1358
+nesC,0.00%,258
+ASL,0.00%,42541
+PureBasic,0.00%,11966
+MDX,0.00%,34100
+Csound Document,0.00%,29943
+Visual Basic 6.0,0.00%,992
+Polar,0.00%,1391
 JSONiq,0.00%,1774
+Dafny,0.00%,11466
+Thrift,0.00%,1340
+Apex,0.00%,21358
 Nunjucks,0.00%,19110
 Nix,0.00%,861
+HLSL,0.00%,78686
 q,0.00%,2626
+M4,0.00%,9901
+Blade,0.00%,62523
+ABAP,0.00%,52354
 QMake,0.00%,0
 SmPL,0.00%,0
-ABAP,0.00%,52354
+Forth,0.00%,9224
 Astro,0.00%,4980
 BitBake,0.00%,1122
 QML,0.00%,65220
+Meson,0.00%,0
+DIGITAL Command Language,0.00%,1231
+Smalltalk,0.00%,13100
+Rebol,0.00%,1675
+ApacheConf,0.00%,398
+Arduino,0.00%,27054
+Pascal,0.00%,418
+Mako,0.00%,5401
+AutoHotkey,0.00%,591
+CoffeeScript,0.00%,315
+VBA,0.00%,19976
+Stylus,0.00%,2333
+Visual Basic .NET,0.00%,8135
+Clojure,0.00%,15305
+SourcePawn,0.00%,8305
+CAP CDS,0.00%,41018
+Prolog,0.00%,4762
+Groff,0.00%,1910
+RenderScript,0.00%,5443
+Visual Basic,0.00%,29197
+Mask,0.00%,605
+IDL,0.00%,191
+AIDL,0.00%,558
+Protocol Buffer,0.00%,2258
